@@ -40,6 +40,7 @@ body > .number-container {
     border-radius: 15px;
     font-weight: 500;
     box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.4);
+    user-select:none;
 }
 
 .number:hover {
