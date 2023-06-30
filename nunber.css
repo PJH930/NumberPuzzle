@@ -161,12 +161,12 @@ body > .number-container {
     }
     
         .number:active{
-            margin: -10px;
-            font-size: 3rem;
+            margin: -5px;
+            font-size: 1.8rem;
     }
     
         #timer {
-            width: 2950px;
+            width: 295px;
             height: 40px;
             left: 50%;
             top: 8%;
@@ -174,7 +174,7 @@ body > .number-container {
     }
         #Time {
             position: fixed;
-            width: 600px;
+            width: 300px;
             height: 70px;
             left: 50%;
             top: 45%;
