@@ -155,14 +155,14 @@ body > .number-container {
         
         .number {
             border: 0.1rem solid rgb(0, 0, 0, 0.4);
-            font-size: 1.5rem;
+            font-size: 1.7rem;
             border-radius: 15px;
             font-weight: 500;
     }
     
         .number:active{
-            margin: -5px;
-            font-size: 1.8rem;
+            margin: -2px;
+            font-size: 2rem;
     }
     
         #timer {
