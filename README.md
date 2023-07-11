@@ -19,7 +19,11 @@ https://pjh930.github.io/NumberPuzzle/
 </br>
 </br>
 
-![NumberPuzzle](https://github.com/PJH930/NumberPuzzle/assets/117810524/e46e0b7d-931e-43d9-ab3a-532ca41dffb0)
+
+
+https://github.com/PJH930/NumberPuzzle/assets/117810524/f7ae9fdd-21a4-4a13-9391-f1f2103ea7ed
+
+
 
 
 </br></br>
